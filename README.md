@@ -9,8 +9,8 @@ In the second part it was used a file where the articles are grouped by categori
 
 ## Script description
 
-`jsfs`
+* `Homework5definitive.ipynb:`Jupyter notebook with all explanations and example of the results. It can be seen (here)[]
 
-`sfsfsfsfs`
+* `functions_used_1.py`: File with functions used in the homework.
 
 
