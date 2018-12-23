@@ -4,7 +4,8 @@ Jose Manuel Camacho Rodriguez
 
 This GitHub contains homework 5 for the ADM class in Sapienza University of Rome for the academic year 2018/2019. 
 
-<img src =http://library.castilleja.org/wp-content/uploads/2013/03/wikipedia-logo-.jpg" />
+<div style="text-align:center"><img src ="http://library.castilleja.org/wp-content/uploads/2013/03/wikipedia-logo-.jpg" /></div>
+
 Using a reduced version of Wikipedia graph released by the SNAP group. In the first part it was described some general features of the graph as it is directed or not, the number of nodes, the number of edges, the average node degree and if the graph is dense or sparse.
 
 In the second part it was used a file where the articles are grouped by categories. In order to organise the categories, it is  used a defined measure to create a block ranking. Afterwards, the articles inside each category is organised through a process using the categories as subgraphs of the total graph.
