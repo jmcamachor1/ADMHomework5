@@ -9,7 +9,7 @@ In the second part it was used a file where the articles are grouped by categori
 
 ## Script description
 
-* `Homework5definitive.ipynb:`Jupyter notebook with all explanations and example of the results. It can be seen (here)[]
+* `Homework5definitive.ipynb:`Jupyter notebook with all explanations and example of the results. It can be seen [here] (http://nbviewer.jupyter.org/github/jmcamachor1/ADMHomework5/blob/master/Homework5definitive.ipynb).
 
 * `functions_used_1.py`: File with functions used in the homework.
 
