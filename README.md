@@ -4,7 +4,7 @@ Jose Manuel Camacho Rodriguez
 
 This GitHub contains homework 5 for the ADM class in Sapienza University of Rome for the academic year 2018/2019. 
 
-<img src ="https://timesofindia.indiatimes.com/photo/56420920.cms" /></div>
+<img src =http://library.castilleja.org/wp-content/uploads/2013/03/wikipedia-logo-.jpg" /></div>
 
 Using a reduced version of Wikipedia graph released by the SNAP group. In the first part it was described some general features of the graph as it is directed or not, the number of nodes, the number of edges, the average node degree and if the graph is dense or sparse.
 
